@@ -20,12 +20,13 @@
 
 ## Table of Contents
 
-1.  **[Feature](#feature)**
-2.  **[Pre install](#pre-install)**
-3.  **[Quick start](#quick-start)**
-4.  **[Example](#example)**
-5.  **[Props](#props)**
-6.  **[Events](#events)**
+- **[Feature](#feature)**
+- **[Documentation](#documentation)**
+- **[Pre install](#pre-install)**
+- **[Quick start](#quick-start)**
+- **[Example](#example)**
+- **[Props](#props)**
+- **[Events](#events)**
 
 ## Feature
 
@@ -35,6 +36,13 @@
 * 失去焦点时格式错误重置为默认值
 * 自定义检验规则,自动填充规则
 * 根据匹配到的规则尝试自动修复
+
+**[⬆ Back to Top](#table-of-contents)**
+
+## Documentation
+
+* [full api doc](https://femessage.github.io/el-semver-input/)
+* [online demo](https://femessage.github.io/el-semver-input/storybook/)
 
 **[⬆ Back to Top](#table-of-contents)**
 
