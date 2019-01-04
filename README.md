@@ -50,7 +50,7 @@
 
 ```sh
 # 确保提前安装了element-ui
-yarn add element-ui --save
+yarn add element-ui
 
 # 且全局注册了el-input
 ```
@@ -59,7 +59,7 @@ yarn add element-ui --save
 
 ```vue
 // Step1 安装
-yarn add el-semver-input 
+yarn add @femessage/el-semver-input
 
 // Step2 在需要的.vue 文件中
 <template>
