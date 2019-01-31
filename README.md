@@ -4,7 +4,7 @@
 
 ## Introduction
 
-基于 el-input 打造的语义化版本输入框
+语义化版本输入框：自动补全！
 
 **What is `el-semver-input`**
 
