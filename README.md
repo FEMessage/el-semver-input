@@ -1,10 +1,15 @@
 # el-semver-input
 
+[![NPM Download](https://img.shields.io/npm/dm/@femessage/el-semver-input.svg)](https://www.npmjs.com/package/@femessage/el-semver-input)
+[![NPM Version](https://img.shields.io/npm/v/@femessage/el-semver-input.svg)](https://www.npmjs.com/package/@femessage/el-semver-input)
+[![NPM License](https://img.shields.io/npm/l/@femessage/el-semver-input.svg)](https://github.com/FEMessage/el-semver-input/blob/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FEMessage/el-semver-input/pulls)
+
+语义化版本输入框：失去焦点可以补全。
+
 ![失去焦点尝试自动填充](https://ws1.sinaimg.cn/large/8db26677gy1fyujuaeiqig20vf02ft9q.jpg)
 
 ## Introduction
-
-语义化版本输入框：自动补全！
 
 **What is `el-semver-input`**
 
