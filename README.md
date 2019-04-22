@@ -48,8 +48,7 @@
 
 ## Documentation
 
-* [full api doc](https://femessage.github.io/el-semver-input/)
-* [online demo](https://femessage.github.io/el-semver-input/storybook/)
+* [doc and online demo](https://femessage.github.io/el-semver-input/)
 
 **[⬆ Back to Top](#table-of-contents)**
 
