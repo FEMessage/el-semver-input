@@ -1,9 +1,11 @@
 # el-semver-input
 
+[![Build Status](https://travis-ci.com/FEMessage/el-semver-input.svg?branch=master)](https://travis-ci.com/FEMessage/el-semver-input)
 [![NPM Download](https://img.shields.io/npm/dm/@femessage/el-semver-input.svg)](https://www.npmjs.com/package/@femessage/el-semver-input)
 [![NPM Version](https://img.shields.io/npm/v/@femessage/el-semver-input.svg)](https://www.npmjs.com/package/@femessage/el-semver-input)
 [![NPM License](https://img.shields.io/npm/l/@femessage/el-semver-input.svg)](https://github.com/FEMessage/el-semver-input/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/FEMessage/el-semver-input/pulls)
+[![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
 
 语义化版本输入框：失去焦点可以补全。
 
@@ -46,8 +48,7 @@
 
 ## Documentation
 
-* [full api doc](https://femessage.github.io/el-semver-input/)
-* [online demo](https://femessage.github.io/el-semver-input/storybook/)
+* [doc and online demo](https://femessage.github.io/el-semver-input/)
 
 **[⬆ Back to Top](#table-of-contents)**
 
