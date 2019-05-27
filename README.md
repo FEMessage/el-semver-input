@@ -27,13 +27,13 @@
 
 ## Table of Contents
 
-- **[Feature](#feature)**
-- **[Documentation](#documentation)**
-- **[Pre install](#pre-install)**
-- **[Quick start](#quick-start)**
-- **[Example](#example)**
-- **[Props](#props)**
-- **[Events](#events)**
+* [el-semver-input](#el-semver-input)
+  * [Introduction](#introduction)
+  * [Table of Contents](#table-of-contents)
+  * [Feature](#feature)
+  * [Documentation](#documentation)
+  * [Pre install](#pre-install)
+  * [Quick start](#quick-start)
 
 ## Feature
 
@@ -69,7 +69,7 @@ yarn add @femessage/el-semver-input
 
 // Step2 在需要的.vue 文件中
 <template>
-    <el-semver-input v-model="version"></el-semver-input>
+  <el-semver-input v-model="version" />
 </template>
 
 <script>
@@ -87,37 +87,5 @@ export default {
 }
 </script>
 ```
-
-**[⬆ Back to Top](#table-of-contents)**
-
-## Example
-
-* 自动修复
-  ![失去焦点尝试自动填充](https://ws1.sinaimg.cn/large/8db26677gy1fyed4100a8g20z10gr0wr.jpg)
-
-* 自定义自动填充规则
-  ![失去焦点尝试自动填充](https://ws1.sinaimg.cn/large/8db26677gy1fyecv50g2sg20z10grn3a.jpg)
-
-* 阻止不合法的输入
-  ![失去焦点尝试自动填充](https://ws1.sinaimg.cn/large/8db26677gy1fyecv4ppz0g20z10grgn4.jpg)
-
-**[⬆ Back to Top](#table-of-contents)**
-
-## Props
-
-| 参数                   | 说明                       | 类型    | 默认值 |
-| ---------------------- | -------------------------- | ------- | ------ |
-| preventIllegal         | 是否阻止不合法的字符串输入 | Boolean | true   |
-| autoPadding            | 是否动根据填充规则进行填充 | Boolean | true   |
-| prefix                 | 是否需要携带 v 前缀        | Boolean | true   |
-| validRegular           | 自定义格式校验规则         | Regexp  |        |
-| autoPaddingRegularList | 自定义自动填充规则         | Array   |        |
-
-## Events
-
-| 事件        | 说明                              | 回调参数   |
-| ----------- | --------------------------------- | ---------- |
-| validChange | value 变化时,其值是否符合检验规则 | true/false |
-| input       | 输入框值变化                      | 输入框值   |
 
 **[⬆ Back to Top](#table-of-contents)**

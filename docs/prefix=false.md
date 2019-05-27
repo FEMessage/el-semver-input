@@ -1,8 +1,8 @@
-阻止非法输入
+不自动添加前缀
 
 ```vue
 <template>
-  <el-semver-input v-model="version" preventIllegal></el-semver-input>
+  <el-semver-input v-model="version" :prefix="false" />
 </template>
 
 <script>
