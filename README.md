@@ -30,8 +30,8 @@
 * [Introduction](#introduction)
 * [Feature](#feature)
 * [Documentation](#documentation)
-* [Pre install](#pre-install)
-* [Quick start](#quick-start)
+* [Pre Install](#pre-install)
+* [Quick Start](#quick-start)
 * [Example](#example)
 
 ## Feature
@@ -51,7 +51,7 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-## Pre install
+## Pre Install
 
 ```sh
 # 确保提前安装了element-ui
@@ -60,7 +60,7 @@ yarn add element-ui
 # 且全局注册了el-input
 ```
 
-## Quick start
+## Quick Start
 
 ```sh
 # Step1 安装
