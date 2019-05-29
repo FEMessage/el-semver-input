@@ -111,14 +111,14 @@ export default {
       default: true
     },
     /**
-     * 默认输入框格式检验规则
+     * 自定义格式校验规则
      */
     validRegular: {
       type: RegExp,
       default: () => VERSION_PATTERN
     },
     /**
-     * 默认自动填充规则
+     * 自定义自动填充规则
      */
     autoPaddingRegularList: {
       type: Array,
@@ -217,15 +217,14 @@ export default {
     },
     updateValue(value) {
       /**
-       * 输入框值改变时,对外通知输入框最新的值
-       * @event input
+       * @property {string} value - 输入框最新的值
        */
       this.$emit('input', value)
     },
     updateValid(isValid) {
       /**
-       * 输入框值改变时,其值是否符合校验规则
-       * @event validChange
+       * 最新值是否符合校验规则
+       * @property {boolean} isValid
        */
       this.$emit('validChange', isValid)
       this.isValid = isValid

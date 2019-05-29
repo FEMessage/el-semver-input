@@ -1,8 +1,8 @@
-基本用法
+基本用法，默认按TAB或失去焦点自动填充，自动添加前缀，和阻止非法输入
 
 ```vue
 <template>
-  <el-semver-input v-model="version" @validChange="validChange"/>
+  <el-semver-input v-model="version" @valid-change="validChange"/>
 </template>
 
 <script>
