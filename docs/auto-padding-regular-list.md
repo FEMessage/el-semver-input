@@ -2,9 +2,8 @@
 
 ```vue
 <template>
-  <el-semver-input v-model="version" :autoPaddingRegularList="paddingList" />
+  <el-semver-input v-model="version" :auto-padding-regular-list="paddingList" />
 </template>
-
 <script>
 export default {
   data() {

@@ -2,7 +2,7 @@
 
 ```vue
 <template>
-  <el-semver-input v-model="version" :validRegular="regular" />
+  <el-semver-input v-model="version" :valid-regular="regular" />
 </template>
 
 <script>

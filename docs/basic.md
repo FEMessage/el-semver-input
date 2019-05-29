@@ -2,7 +2,7 @@
 
 ```vue
 <template>
-  <el-semver-input v-model="version" @validChange="validChange"/>
+  <el-semver-input v-model="version" @valid-change="validChange"/>
 </template>
 
 <script>
