@@ -16,12 +16,12 @@ Semantic version input box: lost focus can be filled.<br />![](https://cdn.nlark
 <a name="65f5152b"></a>
 ## Table of Contents
 
-- [Introduction](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#introduction)
-- [Feature](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#feature)
-- [Documentation](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#documentation)
-- [Pre Install](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#pre-install)
-- [Quick Start](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#quick-start)
-- [Example](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#example)
+- [Introduction](#introduction)
+- [Feature](#feature)
+- [Documentation](#documentation)
+- [Pre Install](#pre-install)
+- [Quick Start](#quick-start)
+- [Example](#example)
 
 <a name="Feature"></a>
 ## Feature
@@ -31,12 +31,12 @@ Semantic version input box: lost focus can be filled.<br />![](https://cdn.nlark
 - Can be automatically filled according to default or custom rules
 - Format error reset to default value when focus is lost
 - Custom inspection rules, automatic filling rules
-- Try to fix it automatically according to the matching rules<br />**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#table-of-contents)**
+- Try to fix it automatically according to the matching rules<br />**[⬆Back to Top](#table-of-contents)**
 
 <a name="Documentation"></a>
 ## Documentation
 
-- [Doc and online demo](https://femessage.github.io/el-semver-input/)<br />**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#table-of-contents)**
+- [Doc and online demo](https://femessage.github.io/el-semver-input/)<br />**[⬆Back to Top](#table-of-contents)**
 
 <a name="5bc0fb1f"></a>
 ## Pre Install
@@ -75,16 +75,16 @@ export default {
 </script>
 ```
 
-**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#table-of-contents)**
+**[⬆Back to Top](#table-of-contents)**
 
 <a name="Example"></a>
 ## Example
 
 - Automatic Repair<br />![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561953196250-1506ad60-6111-48b6-a4ca-0cdb17fc8b06.gif#align=left&display=inline&height=603&originHeight=603&originWidth=1261&size=0&status=done&width=1261)
 - Custom Auto fill rule<br />![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561953196274-3c1fd76a-f0f8-4706-a3af-c8ae0b606d79.gif#align=left&display=inline&height=603&originHeight=603&originWidth=1261&size=0&status=done&width=1261)
-- Block illegal input<br />![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561953196218-47085f92-e8e3-4ddb-8596-c7d3b0b2f6f9.gif#align=left&display=inline&height=603&originHeight=603&originWidth=1261&size=0&status=done&width=1261)<br />**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#table-of-contents)**
+- Block illegal input<br />![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561953196218-47085f92-e8e3-4ddb-8596-c7d3b0b2f6f9.gif#align=left&display=inline&height=603&originHeight=603&originWidth=1261&size=0&status=done&width=1261)<br />**[⬆Back to Top](#table-of-contents)**
 
 <a name="Contributors"></a>
 ## Contributors
 
-Thanks goes to these wonderful people ( [Emoji key](https://allcontributors.org/docs/en/emoji-key) ):<br />This project follows [All-contributors](https://github.com/all-contributors/all-contributors) Specification. Contributions of any kind welcome!<br />**[⬆Back to Top](https://www.yuque.com/deepexi-serverless/onx52o/rx1oac?translate=en#table-of-contents)**
+Thanks goes to these wonderful people ( [Emoji key](https://allcontributors.org/docs/en/emoji-key) ):<br />This project follows [All-contributors](https://github.com/all-contributors/all-contributors) Specification. Contributions of any kind welcome!<br />**[⬆Back to Top](#table-of-contents)**
