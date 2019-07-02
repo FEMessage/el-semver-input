@@ -11,6 +11,8 @@
 
 ![失去焦点尝试自动填充](https://ws1.sinaimg.cn/large/8db26677gy1fyujuaeiqig20vf02ft9q.jpg)
 
+[English](./README-en.md)
+
 ## Introduction
 
 **What is `el-semver-input`**
