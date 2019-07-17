@@ -29,13 +29,13 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-* [Introduction](#Introduction)
-* [Feature](#Feature)
-* [Documentation](#Documentation)
-* [Pre Install](#Pre-Install)
-* [Quick Start](#Quick-Start)
-* [Example](#Example)
-* [Contributors](#Contributors)
+* [Introduction](#introduction)
+* [Feature](#feature)
+* [Documentation](#documentation)
+* [Pre Install](#pre-install)
+* [Quick Start](#quick-start)
+* [Example](#example)
+* [Contributors](#contributors)
 
 ## Feature
 
