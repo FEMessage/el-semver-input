@@ -9,7 +9,7 @@
 
 语义化版本输入框：失去焦点可以补全。
 
-![失去焦点尝试自动填充](https://ws1.sinaimg.cn/large/8db26677gy1fyujuaeiqig20vf02ft9q.jpg)
+[](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561953196140-1fec3064-560c-4001-9f88-366be556cab8.gif#align=left&display=inline&height=87&originHeight=87&originWidth=1131&size=0&status=done&width=1131)
 
 [English](./README-en.md)
 
@@ -29,12 +29,13 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-* [Introduction](#introduction)
-* [Feature](#feature)
-* [Documentation](#documentation)
-* [Pre Install](#pre-install)
-* [Quick Start](#quick-start)
-* [Example](#example)
+* [Introduction](#Introduction)
+* [Feature](#Feature)
+* [Documentation](#Documentation)
+* [Pre Install](#Pre-Install)
+* [Quick Start](#Quick-Start)
+* [Example](#Example)
+* [Contributors](#Contributors)
 
 ## Feature
 
@@ -94,13 +95,13 @@ export default {
 ## Example
 
 * 自动修复
-  ![失去焦点尝试自动填充](https://ws1.sinaimg.cn/large/8db26677gy1fyed4100a8g20z10gr0wr.jpg)
+  ![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561953196250-1506ad60-6111-48b6-a4ca-0cdb17fc8b06.gif#align=left&display=inline&height=603&originHeight=603&originWidth=1261&size=0&status=done&width=1261)
 
 * 自定义自动填充规则
-  ![失去焦点尝试自动填充](https://ws1.sinaimg.cn/large/8db26677gy1fyecv50g2sg20z10grn3a.jpg)
+  ![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561953196274-3c1fd76a-f0f8-4706-a3af-c8ae0b606d79.gif#align=left&display=inline&height=603&originHeight=603&originWidth=1261&size=0&status=done&width=1261)
 
 * 阻止不合法的输入
-  ![失去焦点尝试自动填充](https://ws1.sinaimg.cn/large/8db26677gy1fyecv4ppz0g20z10grgn4.jpg)
+  ![](https://cdn.nlark.com/yuque/0/2019/gif/224563/1561953196218-47085f92-e8e3-4ddb-8596-c7d3b0b2f6f9.gif#align=left&display=inline&height=603&originHeight=603&originWidth=1261&size=0&status=done&width=1261)
 
 **[⬆ Back to Top](#table-of-contents)**
 
