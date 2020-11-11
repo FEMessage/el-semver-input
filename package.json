@@ -20,6 +20,7 @@
   "browser": {
     "./sfc": "src/el-semver-input.vue"
   },
+  "types": "src/el-semver-input.d.ts",
   "scripts": {
     "dev": "vue-styleguidist server",
     "test": "jest",
