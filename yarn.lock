@@ -953,7 +953,7 @@
   resolved "https://registry.npm.taobao.org/@types/yargs/download/@types/yargs-12.0.12.tgz#45dd1d0638e8c8f153e87d296907659296873916"
   integrity sha1-Rd0dBjjoyPFT6H0paQdlkpaHORY=
 
-"@vue/component-compiler-utils@^2.1.0", "@vue/component-compiler-utils@^2.5.1":
+"@vue/component-compiler-utils@^2.1.0":
   version "2.6.0"
   resolved "https://registry.npm.taobao.org/@vue/component-compiler-utils/download/@vue/component-compiler-utils-2.6.0.tgz#aa46d2a6f7647440b0b8932434d22f12371e543b"
   integrity sha1-qkbSpvdkdECwuJMkNNIvEjceVDs=
@@ -965,6 +965,21 @@
     postcss "^7.0.14"
     postcss-selector-parser "^5.0.0"
     prettier "1.16.3"
+    source-map "~0.6.1"
+    vue-template-es2015-compiler "^1.9.0"
+
+"@vue/component-compiler-utils@^3.0.0":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@vue/component-compiler-utils/-/component-compiler-utils-3.0.2.tgz#7daf8aaf0d5faa66e7c8a1f6fea315630e45fbc9"
+  integrity sha512-BSnY2PmW4QwU1AOcGSNYAmEPLjdQ9itl1YpLCWtpwMA5Jy/aqWNuzZ9+ZZ8h6yZJ53W95tVkEP6yrXJ/zUHdEA==
+  dependencies:
+    consolidate "^0.15.1"
+    hash-sum "^1.0.2"
+    lru-cache "^4.1.2"
+    merge-source-map "^1.1.0"
+    postcss "^7.0.14"
+    postcss-selector-parser "^5.0.0"
+    prettier "^1.18.2"
     source-map "~0.6.1"
     vue-template-es2015-compiler "^1.9.0"
 
@@ -8106,6 +8121,11 @@ prettier@1.16.3:
   resolved "https://registry.npm.taobao.org/prettier/download/prettier-1.16.3.tgz#8c62168453badef702f34b45b6ee899574a6a65d"
   integrity sha1-jGIWhFO63vcC80tFtu6JlXSmpl0=
 
+prettier@^1.18.2:
+  version "1.19.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.19.1.tgz#f7d7f5ff8a9cd872a7be4ca142095956a60797cb"
+  integrity sha512-s7PoyDv/II1ObgQunCbB9PdLmUcBZcnWOcxDh7O0N/UwDEsHyqkW+Qh28jW+mVuCdx7gLB0BotYI1Y6uI9iyew==
+
 pretty-format@^24.8.0:
   version "24.8.0"
   resolved "https://registry.npm.taobao.org/pretty-format/download/pretty-format-24.8.0.tgz#8dae7044f58db7cb8be245383b565a963e3c27f2"
@@ -10967,11 +10987,11 @@ vue-hot-reload-api@^2.3.0:
   integrity sha1-J1b0bLMlgFTF9HI96K5+hzAqHM8=
 
 vue-loader@^15.7.0:
-  version "15.7.0"
-  resolved "https://registry.npm.taobao.org/vue-loader/download/vue-loader-15.7.0.tgz#27275aa5a3ef4958c5379c006dd1436ad04b25b3"
-  integrity sha1-JydapaPvSVjFN5wAbdFDatBLJbM=
+  version "15.7.2"
+  resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-15.7.2.tgz#cc89e2716df87f70fe656c9da9d7f8bec06c73d6"
+  integrity sha512-H/P9xt/nkocyu4hZKg5TzPqyCT1oKOaCSk9zs0JCbJuy0Q8KtR0bjJpnT/5R5x/Ckd1GFkkLQnQ1C4x6xXeLZg==
   dependencies:
-    "@vue/component-compiler-utils" "^2.5.1"
+    "@vue/component-compiler-utils" "^3.0.0"
     hash-sum "^1.0.2"
     loader-utils "^1.1.0"
     vue-hot-reload-api "^2.3.0"
